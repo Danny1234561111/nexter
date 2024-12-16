@@ -1,0 +1,5 @@
+module untitled11
+typeinfo appuntitled11.qmltypes
+prefer :/
+My_Page 1.0 qml/My_Page.qml
+
